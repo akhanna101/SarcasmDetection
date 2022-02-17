@@ -5,16 +5,6 @@ Created on Sun Feb 13 18:15:52 2022
 @author: akhan
 """
 
-#Install required Packages
-
-# pip install tweepy
-# #pip install pytorch
-# pip install streamlit
-# pip install torchtext
-# pip install matplotlib
-# pip install scikit-learn
-
-
 #IMPORT ALL REQUIRED PACKAGES
 
 import streamlit as st
@@ -884,6 +874,4 @@ st.image(buf2, width = 900)
 #st.write(fig2)
 #st.pyplot(fig2, clear_figure=True)
 
-
-##################### WORD CLOUD ###################
 
